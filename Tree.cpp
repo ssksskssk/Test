@@ -14,7 +14,7 @@ HRESULT Tree::Render()
 void Tree::LineRender(D3DXVECTOR3 start, D3DXVECTOR3 dir, int deep)
 {
 	//aaaaa
-
+	//biiasiduausd
 	Line line;
 	line.Draw(start, start + dir);
 
